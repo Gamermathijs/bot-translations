@@ -1,2 +1,5 @@
 translations:
-  setprefix: "setprefix", "prefix set"
+  setprefix:
+    - setprefix
+    - prefix set
+
