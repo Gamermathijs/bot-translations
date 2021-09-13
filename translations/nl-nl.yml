@@ -1,2 +1,4 @@
 translations:
-  setprefix: "zetprefix", "prefix zet'
+  setprefix:
+    - zetprefix
+    - prefix zet
