@@ -3,5 +3,5 @@
     "setprefix": ["zetprefix", "prefix zet"],
     "setlanguage": ["zettaal", "taal zet"]
   },
-  "Name": ["nederlands", "nl-nl"]
+  "Aliases": ["nederlands", "nl-nl"]
 }
