@@ -3,5 +3,5 @@
     "setprefix": ["setprefix", "prefix set"],
     "setlanguage": ["setlanguage", "language set"]
   },
-  "Name": ["English","en-en","English (United Kingdom)"]
+  "Aliasses": ["English", "English (United Kingdom)"]
 }
