@@ -1,3 +1,6 @@
 {
-  "setprefix": ["zetprefix", "prefix zet"]
+  "translations" : {
+    "setprefix": ["zetprefix", "prefix zet"]
+  },
+  "name": ["Nederlands", "nl-nl"]
 }

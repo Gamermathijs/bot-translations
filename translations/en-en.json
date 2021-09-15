@@ -1,3 +1,6 @@
 {
-  "setprefix": ["setprefix", "prefix set"]
+  "translations" : {
+    "setprefix": ["setprefix", "prefix set"]
+  },
+  "name": ["English","en-en","English (United Kingdom)"]
 }
