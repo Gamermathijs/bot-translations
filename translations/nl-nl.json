@@ -1,6 +1,7 @@
 {
   "Translations" : {
-    "setprefix": ["zetprefix", "prefix zet"]
+    "setprefix": ["zetprefix", "prefix zet"],
+    "setlanguage": ["zettaal", "taal zet"]
   },
   "Name": ["Nederlands", "nl-nl"]
 }
