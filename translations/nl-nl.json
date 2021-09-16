@@ -1,7 +1,13 @@
 {
   "Translations" : {
-    "setprefix": ["zetprefix", "prefix zet"],
-    "setlanguage": ["zettaal", "taal zet"]
+    "commands": {
+      "setprefix": ["ZetPrefix", "Prefix Zet"],
+    "setlanguage": ["ZetTaal", "Taal Zet"]
+    },
+    "text":{
+      "changed prefix": "Prefix succesvol veranderd naar: {}",
+      "changed language": "Taal succesvol veranderd naar: {}"
+    }
   },
   "Aliases": ["nederlands", "nl-nl"]
 }

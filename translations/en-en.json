@@ -1,7 +1,13 @@
 {
   "Translations" : {
-    "setprefix": ["SetPrefix", "prefix set"],
-    "setlanguage": ["SetLanguage", "language set"]
+    "commands": {
+      "setprefix": ["SetPrefix", "prefix set"],
+      "setlanguage": ["SetLanguage", "language set"]
+    },
+    "text":{
+      "changed prefix": "Prefix succesfully changed to: {}",
+      "changed language": "Language succesfully changed to: {}"
+    }
   },
   "Aliases": ["english", "english (united kingdom)"]
 }
