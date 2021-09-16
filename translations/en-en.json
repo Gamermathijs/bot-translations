@@ -1,6 +1,6 @@
 {
   "Translations" : {
-    "setprefix": ["Setprefix", "prefix set"],
+    "setprefix": ["SetPrefix", "prefix set"],
     "setlanguage": ["SetLanguage", "language set"]
   },
   "Aliases": ["english", "english (united kingdom)"]
