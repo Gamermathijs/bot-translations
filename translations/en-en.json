@@ -6,7 +6,8 @@
     },
     "text":{
       "changed prefix": "Prefix succesfully changed to: {}",
-      "changed language": "Language succesfully changed to: {}"
+      "changed language": "Language succesfully changed to: {}",
+      "wrong arguments": "Wrong arguments use the help command for more information"
     }
   },
   "Aliases": ["english", "english (united kingdom)"]
