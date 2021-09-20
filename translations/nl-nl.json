@@ -5,8 +5,9 @@
     "setlanguage": ["ZetTaal", "Taal Zet"]
     },
     "text":{
-      "changed prefix": "Prefix succesvol veranderd naar: {}",
-      "changed language": "Taal succesvol veranderd naar: {}"
+      "changed prefix": "Prefix succesvol veranderd naar: {}.",
+      "changed language": "Taal succesvol veranderd naar: {}.",
+      "wrong arguments": "je gebruikt de command verkeerd, gebruik help voor meer informatie."
     }
   },
   "Aliases": ["nederlands", "nl-nl"]
