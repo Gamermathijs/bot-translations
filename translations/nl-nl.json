@@ -2,8 +2,11 @@
   "Translations" : {
     "commands": {
       "setprefix": ["ZetPrefix", "Prefix Zet"],
-      "setprefix2": ["ZetPrefix2", "Prefix Zet2"],
       "setlanguage": ["ZetTaal", "Taal Zet"]
+    },
+    "descriptions":{
+      "setprefix": "Verander de prefix van deze bot naar iets anders.",
+      "setlanguage": "Vernander de taal van de deze bot naar iets anders."
     },
     "text":{
       "changed prefix": "Prefix succesvol veranderd naar: {}.",

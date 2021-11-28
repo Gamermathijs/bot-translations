@@ -4,6 +4,11 @@
       "setprefix": ["SetPrefix", "prefix set"],
       "setlanguage": ["SetLanguage", "language set"]
     },
+    "descriptions":
+    {
+      "setprefix": "Change the prefix of this discord bot.",
+      "setlanguage": "Change the language of this discord bot."
+    },
     "text":{
       "changed prefix": "Prefix succesfully changed to: {}.",
       "changed language": "Language succesfully changed to: {}.",
