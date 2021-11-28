@@ -6,8 +6,14 @@
     },
     "descriptions":
     {
-      "setprefix": "Change the prefix of this discord bot.",
-      "setlanguage": "Change the language of this discord bot."
+      "commands":{
+        "setprefix": "Change the prefix of this discord bot.",
+        "setlanguage": "Change the language of this discord bot."
+      },"arguments": {
+        "prefix": "The prefix you want to change the prefix of this bot to.",
+        "language": "The language you want to change the langauge of this bot to."
+      }
+      
     },
     "text":{
       "changed prefix": "Prefix succesfully changed to: {}.",

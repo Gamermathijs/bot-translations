@@ -5,8 +5,14 @@
       "setlanguage": ["ZetTaal", "Taal Zet"]
     },
     "descriptions":{
-      "setprefix": "Verander de prefix van deze bot.",
-      "setlanguage": "Verander de taal van de deze bot."
+      "commands":{ 
+        "setprefix": "Verander de prefix van deze bot.",
+        "setlanguage": "Verander de taal van de deze bot."
+      },
+      "arguments": {
+        "prefix": "Prefix waar je de prefix van deze bot naar wil veranderen",
+        "language": "Taal waar je de taal van deze bot naar wil veranderen"  
+      }
     },
     "text":{
       "changed prefix": "Prefix succesvol veranderd naar: {}.",
