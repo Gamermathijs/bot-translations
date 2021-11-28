@@ -2,7 +2,8 @@
   "Translations" : {
     "commands": {
       "setprefix": ["ZetPrefix", "Prefix Zet"],
-    "setlanguage": ["ZetTaal", "Taal Zet"]
+      "setprefix2": ["ZetPrefix2", "Prefix Zet2"],
+      "setlanguage": ["ZetTaal", "Taal Zet"]
     },
     "text":{
       "changed prefix": "Prefix succesvol veranderd naar: {}.",
